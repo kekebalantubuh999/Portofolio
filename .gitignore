@@ -1,0 +1,6 @@
+# Internal assistant workspace config
+.agents/
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
